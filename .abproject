@@ -1,0 +1,28 @@
+{
+  "ProjectName": "helloword",
+  "ProjectGuid": "{70d0156e-c942-4ff7-b493-abeb71073cc0}",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.helloword",
+  "DisplayName": "helloword",
+  "Author": "",
+  "Description": "helloword",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.3.0",
+  "Framework": "NativeScript"
+}
